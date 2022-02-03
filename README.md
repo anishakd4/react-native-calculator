@@ -1,6 +1,6 @@
 ## React Native Calculator App
 
-A simple cross platform (iOS and Android) React Native calculator app. Get started learning & mastering React Native for free!
+A simple cross platform (iOS and Android) React Native calculator app.
 
 ![Demo](./assets/demo.png)
 
